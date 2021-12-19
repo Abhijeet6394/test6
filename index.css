@@ -1,0 +1,14 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #e8c3d6;
+}
+.circle{
+    height:200px;
+    width:200px;
+    border-radius: 50%;
+    background-color: #1a44ad;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
